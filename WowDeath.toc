@@ -1,0 +1,6 @@
+## Interface: 90207
+## Title : WowDeath
+## Notes: Display text and play sound when you die
+## Author: Gillo
+## WowDeath.xml
+WowDeath.lua
